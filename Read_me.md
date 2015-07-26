@@ -1,4 +1,4 @@
-# Read_me
+# Read me!
 
 #This is a project requirement for Coursera's Getting and Cleaning course.
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set using R.
